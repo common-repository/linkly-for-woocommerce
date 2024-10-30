@@ -1,0 +1,77 @@
+@font-face {
+    font-family: "Sora";
+    src: url("./Sora-Regular.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+.linkly-sso-button {
+    margin-bottom: 15px;
+}
+
+.linkly-button button, .linkly-button a {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+    padding: 10px 24px;
+    gap: 8px;
+    cursor: pointer;
+
+    text-decoration: none !important;
+}
+
+.linkly-button a:hover, .linkly-button button:hover {
+    text-decoration-line: underline !important;
+}
+
+.linkly-button a:active, .linkly-button button:active, .linkly-button a:focus, .linkly-button button:focus {
+    border-radius: 8px;
+}
+
+.linkly-button * span {
+    display: inline-block;
+
+    font-family: 'Sora', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+}
+
+.linkly-button * img {
+    display: inline;
+    width: 78px;
+    height: 24px;
+}
+
+.linkly-button.primary {
+    background: #2F0066;
+    border: 1px solid #2F0066;
+    border-radius: 8px;
+}
+
+.linkly-button.primary:hover {
+    background: #450094;
+    border-color: #450094;
+}
+
+.linkly-button.primary * span {
+    color: #FFFFFF;
+}
+
+.linkly-button.secondary {
+    background: #FFFFFF;
+    border: #eeeeee 1px solid;
+    border-radius: 8px;
+}
+
+.linkly-button.secondary:hover {
+    background: #F2F2F2;
+}
+
+.linkly-button.secondary * span {
+    color: #212121;
+}

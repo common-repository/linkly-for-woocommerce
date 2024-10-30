@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Linkly for WooCommerce\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/linkly-for-woocommerce\n"
+"POT-Creation-Date: 2023-01-23T09:43:44+01:00\n"
+"PO-Revision-Date: 2023-08-07 16:44+0200\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE <info@linkly.me>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Domain: linkly-for-woocommerce\n"
+
+msgid "login-button"
+msgstr ""
+
+msgid "shipping.costs"
+msgstr ""
+
+msgid "link-account-button"
+msgstr ""
+
+msgid "change-address-button"
+msgstr ""
+
+msgid "admin-connect-button"
+msgstr ""
+
+msgid "go-to-linkly-button"
+msgstr ""
+
+msgid "order_description"
+msgstr ""
+
+msgid "language"
+msgstr ""
+
+msgid "admin-description-not-linked"
+msgstr ""
+
+msgid "admin-description-linked"
+msgstr ""
+
+msgid "warning.title"
+msgstr ""
+
+msgid "warning.pdf-invoice-plugin-not-activated"
+msgstr ""
+
+msgid "client.id"
+msgstr ""
+
+msgid "client.secret"
+msgstr ""
+
+msgid "button_style.title"
+msgstr ""
+
+msgid "button_style.change"
+msgstr ""
+
+msgid "button_style.primary"
+msgstr ""
+
+msgid "button_style.secondary"
+msgstr ""
+
+msgid "button_style.current"
+msgstr ""
+
+msgid "save_changes"
+msgstr ""
+
+msgid "edit_credentials"
+msgstr ""
+
+msgid "cancel"
+msgstr ""
+
+msgid "client.connection-settings"
+msgstr ""
+
+msgid "client.status"
+msgstr ""
+
+msgid "client.connected"
+msgstr ""
+
+msgid "client.disconnected"
+msgstr ""
+
+msgid "client.connection-error"
+msgstr ""
+
